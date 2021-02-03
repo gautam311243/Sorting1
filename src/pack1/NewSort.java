@@ -1,4 +1,5 @@
 package pack1;
+
 import java.util.Scanner;
 
 public class NewSort {
