@@ -28,9 +28,9 @@ public class BubbleSort {
 		}
 		
 		System.out.print("Sorted array: ");
-		for(int k=0;k<arr.length;k++)
+		for(int j=0;j<arr.length;j++)
 		{
-			System.out.print(arr[k]+" ");
+			System.out.print(arr[j]+" ");
 		}
 
 	}
